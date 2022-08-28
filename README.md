@@ -1,6 +1,6 @@
 ### Hey, I'm Andrew
 
-Learn more about me at [andrewchen.tech](andrewchen.tech)
+Learn more about me at [andrewchen.tech](https://andrewchen.tech)
     
          
  
