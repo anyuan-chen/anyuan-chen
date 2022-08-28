@@ -1,6 +1,6 @@
-### Hi there! I'm Andrew Chen
+### Hey, I'm Andrew
 
-andrewchen.tech
+Learn more about me at (andrewchen.tech)[andrewchen.tech]
     
          
  
