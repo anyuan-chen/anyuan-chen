@@ -1,6 +1,6 @@
 ### Hey, I'm Andrew
 
-I like creating fun little applets, especially ones that improve audio experiences. If you're here, check out my work on Records or on Concertify.  
+I like creating fun little applets, especially ones that improve audio experiences. 
 
 If there's anything else you want to know about me, check out [andrewchen.tech](https://andrewchen.tech)
 
