@@ -4,7 +4,7 @@ I like creating fun little applets, especially ones that improve audio experienc
 
 If there's anything else you want to know about me, check out [andrewchen.tech](https://andrewchen.tech)
 
-Have question, feedback, or ideas? Free to email me at a22chen[at]uwaterloo.ca or send me a message on [LinkedIn](https://www.linkedin.com/in/anyuan-chen/).
+Have question, feedback, or ideas? Free to email me at a22chen[at]uwaterloo.ca or send me a message on [LinkedIn](https://www.linkedin.com/in/anyuan-chen/). (I respond!) 
     
          
  
